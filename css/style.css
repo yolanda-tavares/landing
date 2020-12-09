@@ -1,0 +1,15 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&family=Roboto:ital,wght@1,300&display=swap");
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+body {
+	font-family:Lobster Two, cursive;
+	font-size:18px;
+	
+}
+
+h1, h2, h3 {
+	font-family:Lobster Two, cursive;
+	font-weight:bold;
+}
